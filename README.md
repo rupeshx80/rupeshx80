@@ -1,25 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rupesh Jadhav</h1>
 <h3 align="center">I code things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh2828&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh2828" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshtwts_&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshtwts_" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupesh2828" alt="rupesh2828" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupeshx80" alt="rupeshx80" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rupeshj28" target="_blank"><img src="https://img.shields.io/twitter/follow/rupeshj28?logo=twitter&style=for-the-badge" alt="rupeshj28" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rupeshtwts_" target="_blank"><img src="https://img.shields.io/twitter/follow/rupeshtwts_?logo=twitter&style=for-the-badge" alt="rupeshtwts_" /></a> </p>
 
-- 🔭 I’m currently working on a **watchparty platform- Building this platform where users can host watch parties, stream content together in sync, and interact through real-time chat and reactions.**.
-  
-- 🌱 I’m currently learning **GO Lang and System Design**.
-
-- 👯 I’m looking to collaborate on **full-stack development projects that enhance user experience and accessibility**.
-
-- 💬 Ask me about **advanced backend technologies**.
 
 - 📫 How to reach me: **rupeshsjadhav999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/rupeshj28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupeshj28" height="30" width="40" /></a>
+  <a href="https://twitter.com/rupeshtwts_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupeshtwts_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rupesh-jadhav-6927a9224/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupesh-jadhav-6927a9224/" height="30" width="40" /></a>
 </p>
 
@@ -72,9 +65,9 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupesh2828&show_icons=true&locale=en&layout=compact" alt="rupesh2828" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshx80&show_icons=true&locale=en&layout=compact" alt="rupeshx80" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh2828&show_icons=true&locale=en" alt="rupesh2828" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh2828&show_icons=true&locale=en" alt="rupeshx80" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh2828&" alt="rupesh2828" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshx80&" alt="rupeshx80" /></p>
 
